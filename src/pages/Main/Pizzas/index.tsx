@@ -3,12 +3,12 @@ import { useState,useEffect } from "react"
 import { Head } from "../../../components/Head"
 import { Snacks } from "../../../components/Snacks"
 import { SnackTitle } from "../../../components/SnackTitle"
-
+import { SnackData } from "../../../interfaces/SnackData"
 import { getPizzas } from "../../../services/api"
 
 export default function Pizzas() {
 
-  const [pizzas,setPizzas] = useState([])
+  const [pizzas,setPizzas] = useState<SnackData[]>([])
 
   useEffect(() => {
     (async () => {

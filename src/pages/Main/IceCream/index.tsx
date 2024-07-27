@@ -2,11 +2,11 @@ import { useState,useEffect } from "react"
 
 import { Head } from "../../../components/Head"
 import { SnackTitle } from "../../../components/SnackTitle"
-
+import { SnackData } from "../../../interfaces/SnackData"
 import { getDesserts } from "../../../services/api"
 import { Snacks } from "../../../components/Snacks"
 export default function IceCream() {
-  const [desserts,setDesserst] = useState([])
+  const [desserts,setDesserst] = useState<SnackData[]>([])
 
   useEffect(() => {
     (async () => {
