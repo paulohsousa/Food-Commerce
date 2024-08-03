@@ -11,7 +11,7 @@
     {
       "id":2,
       "snack":"burger",
-      "name":"extra bacon",
+      "name":"Artesanal Australiano",
       "description":"Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "price":22.00,
       "image":"https://i.imgur.com/B4J04AJ.jpg"
@@ -26,21 +26,24 @@
     },
     {
       "id": 3,
-      "snack": "Classic Cheeseburger",
+      "snack": "burger",
+      "name":"Classic Cheeseburger",
       "description": "Delicious beef patty topped with cheddar cheese, lettuce, tomato, and our special sauce.",
       "price": 8.99,
       "image": "classic_cheeseburger.jpg"
     },
     {
       "id": 4,
-      "snack": "Bacon BBQ Burger",
+      "snack": "burger",
+      "name":"Bacon BBQ Burger",
       "description": "Juicy beef patty with crispy bacon, tangy BBQ sauce, cheddar cheese, and onion rings.",
       "price": 10.49,
       "image": "bacon_bbq_burger.jpg"
     },
     {
       "id": 5,
-      "snack": "Veggie Burger",
+      "snack": "burger",
+      "name":"Veggie Burger",
       "description": "Grilled veggie patty with avocado, lettuce, tomato, and vegan mayo.",
       "price": 9.49,
       "image": "veggie_burger.jpg"
@@ -48,6 +51,7 @@
     {
       "id": 6,
       "snack": "Spicy Jalapeno Burger",
+      "name":"Spicy Jalapeno Burger",
       "description": "Beef patty topped with spicy jalapenos, pepper jack cheese, and chipotle mayo.",
       "price": 9.99,
       "image": "spicy_jalapeno_burger.jpg"
@@ -65,28 +69,32 @@
     },
     {
       "id": 2,
-      "snack": "Margherita Pizza",
+      "snack": "pizza",
+      "name":"Margherita Pizza",
       "description": "Classic pizza with fresh mozzarella, tomatoes, and basil.",
       "price": 12.99,
       "image": "margherita_pizza.jpg"
     },
     {
       "id": 3,
-      "snack": "Pepperoni Pizza",
+      "snack": "pizza",
+      "name":"Pepperoni Pizza",
       "description": "Loaded with pepperoni slices and mozzarella cheese.",
       "price": 14.99,
       "image": "pepperoni_pizza.jpg"
     },
     {
       "id": 4,
-      "snack": "BBQ Chicken Pizza",
+      "snack": "pizza",
+      "name":"BBQ Chicken Pizzal",
       "description": "Grilled chicken, BBQ sauce, red onions, and cilantro on a mozzarella cheese base.",
       "price": 15.99,
       "image": "bbq_chicken_pizza.jpg"
     },
     {
       "id": 5,
-      "snack": "Veggie Deluxe Pizza",
+      "snack": "pizza",
+      "name":"Veggie Deluxe Pizza",
       "description": "Topped with bell peppers, onions, mushrooms, olives, and tomatoes.",
       "price": 13.99,
       "image": "veggie_deluxe_pizza.jpg"
@@ -96,28 +104,32 @@
   "drinks": [
     {
       "id": 1,
-      "snack": "Classic Lemonade",
+      "snack": "drink",
+      "name":"Classic Lemonade",
       "description": "Refreshing lemonade made with fresh lemons and a hint of mint.",
       "price": 3.49,
       "image": "classic_lemonade.jpg"
     },
     {
       "id": 2,
-      "snack": "Iced Coffee",
+      "snack": "drink",
+      "name":"Iced Coffee",
       "description": "Chilled coffee served over ice with a splash of milk.",
       "price": 4.99,
       "image": "iced_coffee.jpg"
     },
     {
       "id": 3,
-      "snack": "Mango Smoothie",
+      "snack": "drink",
+      "name":"Mango Smoothie",
       "description": "Smooth and creamy mango smoothie with a touch of honey.",
       "price": 5.99,
       "image": "mango_smoothie.jpg"
     },
     {
       "id": 4,
-      "snack": "Berry Blast",
+      "snack": "drink",
+      "name":"Berry Blast",
       "description": "Mixed berry drink with blueberries, strawberries, and raspberries.",
       "price": 4.99,
       "image": "berry_blast.jpg"
@@ -126,28 +138,32 @@
   "desserts": [
     {
       "id": 1,
-      "snack": "Chocolate Brownie",
+      "snack": "dessert",
+      "name":"Chocolate Brownie",
       "description": "Rich and fudgy chocolate brownie topped with a scoop of vanilla ice cream.",
       "price": 6.49,
       "image": "chocolate_brownie.jpg"
     },
     {
       "id": 2,
-      "snack": "Cheesecake",
+      "snack": "dessert",
+      "name":"Cheesecake",
       "description": "Creamy cheesecake with a graham cracker crust and strawberry topping.",
       "price": 7.99,
       "image": "cheesecake.jpg"
     },
     {
       "id": 3,
-      "snack": "Apple Pie",
+      "snack": "dessert",
+      "name":"Apple Pie",
       "description": "Warm apple pie served with a dollop of whipped cream.",
       "price": 5.99,
       "image": "apple_pie.jpg"
     },
     {
       "id": 4,
-      "snack": "Tiramisu",
+      "snack": "dessert",
+      "name":"Tiramisu",
       "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream.",
       "price": 8.49,
       "image": "tiramisu.jpg"
